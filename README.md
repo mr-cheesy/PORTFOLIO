@@ -1,4 +1,4 @@
-# Atharv — Portfolio (v2)
+# Atharv — Portfolio
 
 React + Vite · Three.js (React Three Fiber) · GSAP ScrollTrigger · Lenis · Framer Motion · Lucide
 
